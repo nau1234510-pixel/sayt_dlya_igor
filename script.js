@@ -47,13 +47,13 @@ buySU25K?.addEventListener('click', () => {
 });
 buyFB?.addEventListener('click', () => { window.location.assign('fb.html'); });
 buyUNC?.addEventListener('click', () => {
-    window.location.assign('unc.html');
+    window.location.assign('UNC.html');
 });
 buyPAW?.addEventListener('click', () => {
-    window.location.assign('paw.html');
+    window.location.assign('PAW.html');
 });
 buyBL?.addEventListener('click', () => {
-    window.location.assign('bl.html');
+    window.location.assign('BL.html');
 });
 buyL?.addEventListener('click', () => {
     window.location.assign('L.html');
