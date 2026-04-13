@@ -114,7 +114,7 @@ setTimeout(() => {
 }, 3000);
 
 
-const API_KEY = "6072ffe45fe53e585229b337";
+const API_KEY = "91bba67f6da6cc45f44e680c";
 
 const rates = [
     { code: "USD", elemId: "usd-rate", inputId: "usd-input", resultId: "usd-uah-result" },
